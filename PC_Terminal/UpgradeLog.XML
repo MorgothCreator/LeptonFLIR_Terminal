@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="PC_Terminal">
+</Property><Property Name="Solution File" Value="Z:\Projecte C#\lepton_flir_terminal\PC_Terminal\PC_Terminal.sln">
+</Property><Property Name="Date" Value="Wednesday, April 15, 2015">
+</Property><Property Name="Time" Value="12:56 PM">
+</Property></Properties><Event ErrorLevel="0" Project="PC_Terminal" Source="PC_Terminal\PC_Terminal.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="PC_Terminal" Source="PC_Terminal\PC_Terminal.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="PC_Terminal.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="PC_Terminal.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="PC_Terminal" Source="PC_Terminal\PC_Terminal.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

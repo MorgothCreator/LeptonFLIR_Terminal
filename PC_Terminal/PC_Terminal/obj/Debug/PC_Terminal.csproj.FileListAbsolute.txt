@@ -1,0 +1,8 @@
+Z:\Projecte C#\lepton_flir_terminal\PC_Terminal\PC_Terminal\obj\Debug\LeptonFLIRTerm.exe
+Z:\Projecte C#\lepton_flir_terminal\PC_Terminal\PC_Terminal\obj\Debug\LeptonFLIRTerm.pdb
+Z:\Projecte C#\lepton_flir_terminal\PC_Terminal\PC_Terminal\bin\Debug\LeptonFLIRTerm.exe
+Z:\Projecte C#\lepton_flir_terminal\PC_Terminal\PC_Terminal\bin\Debug\LeptonFLIRTerm.pdb
+Z:\Projecte C#\lepton_flir_terminal\PC_Terminal\PC_Terminal\obj\Debug\ResolveAssemblyReference.cache
+Z:\Projecte C#\lepton_flir_terminal\PC_Terminal\PC_Terminal\obj\Debug\PC_Terminal.Form1.resources
+Z:\Projecte C#\lepton_flir_terminal\PC_Terminal\PC_Terminal\obj\Debug\LeptonFLIRTerm.Properties.Resources.resources
+Z:\Projecte C#\lepton_flir_terminal\PC_Terminal\PC_Terminal\obj\Debug\PC_Terminal.csproj.GenerateResource.Cache

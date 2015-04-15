@@ -1,0 +1,18 @@
+Z:\PC_Terminal\PC_Terminal\PC_Terminal\obj\Debug\ResolveAssemblyReference.cache
+Z:\PC_Terminal\PC_Terminal\PC_Terminal\obj\Debug\PC_Terminal.Form1.resources
+Z:\PC_Terminal\PC_Terminal\PC_Terminal\obj\Debug\PC_Terminal.Properties.Resources.resources
+Z:\PC_Terminal\PC_Terminal\PC_Terminal\obj\Debug\PC_Terminal.csproj.GenerateResource.Cache
+Z:\PC_Terminal\PC_Terminal\PC_Terminal\bin\Debug\PC_Terminal.exe
+Z:\PC_Terminal\PC_Terminal\PC_Terminal\bin\Debug\PC_Terminal.pdb
+Z:\PC_Terminal\PC_Terminal\PC_Terminal\obj\Debug\PC_Terminal.exe
+Z:\PC_Terminal\PC_Terminal\PC_Terminal\obj\Debug\PC_Terminal.pdb
+Z:\PA\AVRPublicProjects\Projecte C#\PC_Terminal\PC_Terminal\PC_Terminal\obj\Debug\PC_Terminal.exe
+Z:\PA\AVRPublicProjects\Projecte C#\PC_Terminal\PC_Terminal\PC_Terminal\obj\Debug\PC_Terminal.pdb
+Z:\lepton_flir_terminal\PC_Terminal\PC_Terminal\obj\Debug\ResolveAssemblyReference.cache
+Z:\lepton_flir_terminal\PC_Terminal\PC_Terminal\obj\Debug\PC_Terminal.Form1.resources
+Z:\lepton_flir_terminal\PC_Terminal\PC_Terminal\obj\Debug\PC_Terminal.csproj.GenerateResource.Cache
+Z:\lepton_flir_terminal\PC_Terminal\PC_Terminal\bin\Debug\LeptonFLIRTerm.exe
+Z:\lepton_flir_terminal\PC_Terminal\PC_Terminal\bin\Debug\LeptonFLIRTerm.pdb
+Z:\lepton_flir_terminal\PC_Terminal\PC_Terminal\obj\Debug\LeptonFLIRTerm.Properties.Resources.resources
+Z:\lepton_flir_terminal\PC_Terminal\PC_Terminal\obj\Debug\LeptonFLIRTerm.exe
+Z:\lepton_flir_terminal\PC_Terminal\PC_Terminal\obj\Debug\LeptonFLIRTerm.pdb
