@@ -6,3 +6,11 @@ Z:\Projecte C#\lepton_flir_terminal\PC_Terminal\PC_Terminal\obj\Debug\ResolveAss
 Z:\Projecte C#\lepton_flir_terminal\PC_Terminal\PC_Terminal\obj\Debug\PC_Terminal.Form1.resources
 Z:\Projecte C#\lepton_flir_terminal\PC_Terminal\PC_Terminal\obj\Debug\LeptonFLIRTerm.Properties.Resources.resources
 Z:\Projecte C#\lepton_flir_terminal\PC_Terminal\PC_Terminal\obj\Debug\PC_Terminal.csproj.GenerateResource.Cache
+C:\GitHub\LeptonFLIR_Terminal\PC_Terminal\PC_Terminal\obj\Debug\LeptonFLIRTerm.exe
+C:\GitHub\LeptonFLIR_Terminal\PC_Terminal\PC_Terminal\obj\Debug\LeptonFLIRTerm.pdb
+C:\GitHub\LeptonFLIR_Terminal\PC_Terminal\PC_Terminal\bin\Debug\LeptonFLIRTerm.exe
+C:\GitHub\LeptonFLIR_Terminal\PC_Terminal\PC_Terminal\bin\Debug\LeptonFLIRTerm.pdb
+C:\GitHub\LeptonFLIR_Terminal\PC_Terminal\PC_Terminal\obj\Debug\ResolveAssemblyReference.cache
+C:\GitHub\LeptonFLIR_Terminal\PC_Terminal\PC_Terminal\obj\Debug\PC_Terminal.Form1.resources
+C:\GitHub\LeptonFLIR_Terminal\PC_Terminal\PC_Terminal\obj\Debug\LeptonFLIRTerm.Properties.Resources.resources
+C:\GitHub\LeptonFLIR_Terminal\PC_Terminal\PC_Terminal\obj\Debug\PC_Terminal.csproj.GenerateResource.Cache
