@@ -46,9 +46,9 @@ namespace PC_Terminal
             this.label4 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.label6 = new System.Windows.Forms.Label();
-            this.trackBar1 = new System.Windows.Forms.TrackBar();
             this.label1 = new System.Windows.Forms.Label();
+            this.trackBar1 = new System.Windows.Forms.TrackBar();
+            this.label6 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown3)).BeginInit();
@@ -82,7 +82,6 @@ namespace PC_Terminal
             // BautRateSelector
             // 
             this.BautRateSelector.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.BautRateSelector.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.BautRateSelector.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.BautRateSelector.FormattingEnabled = true;
             this.BautRateSelector.Items.AddRange(new object[] {
@@ -102,7 +101,9 @@ namespace PC_Terminal
             "230400",
             "256000",
             "460800",
-            "921600"});
+            "921600",
+            "1000000",
+            "2000000"});
             this.BautRateSelector.Location = new System.Drawing.Point(150, 12);
             this.BautRateSelector.Name = "BautRateSelector";
             this.BautRateSelector.Size = new System.Drawing.Size(90, 21);
@@ -125,7 +126,7 @@ namespace PC_Terminal
             // 
             // timer2
             // 
-            this.timer2.Interval = 20;
+            this.timer2.Interval = 40;
             this.timer2.Tick += new System.EventHandler(this.timer4_Tick);
             // 
             // pictureBox1
@@ -254,15 +255,14 @@ namespace PC_Terminal
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Only no reference";
             // 
-            // label6
+            // label1
             // 
-            this.label6.AutoSize = true;
-            this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.Location = new System.Drawing.Point(342, 16);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(87, 13);
-            this.label6.TabIndex = 29;
-            this.label6.Text = "Median value:";
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Location = new System.Drawing.Point(257, 51);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(0, 13);
+            this.label1.TabIndex = 34;
             // 
             // trackBar1
             // 
@@ -274,14 +274,15 @@ namespace PC_Terminal
             this.trackBar1.TabIndex = 33;
             this.trackBar1.Value = 128;
             // 
-            // label1
+            // label6
             // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(257, 51);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(0, 13);
-            this.label1.TabIndex = 34;
+            this.label6.AutoSize = true;
+            this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label6.Location = new System.Drawing.Point(342, 16);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(87, 13);
+            this.label6.TabIndex = 29;
+            this.label6.Text = "Median value:";
             // 
             // Form1
             // 

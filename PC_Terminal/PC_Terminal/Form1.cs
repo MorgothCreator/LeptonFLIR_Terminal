@@ -168,8 +168,8 @@ namespace PC_Terminal
                     {
                         int data;
                         Color newColor;
-                        if (((int)receive_buff[cnt] & 0xC0) != 0)
-                            cnt++;
+                        //if (((int)receive_buff[cnt] & 0xC0) != 0)
+                            //cnt++;
                         data = (int)(receive_buff[cnt] << 8) + (receive_buff[cnt + 1]);
                         cnt += 2;
                         if (color_palete.Checked == false)
@@ -296,6 +296,11 @@ namespace PC_Terminal
             }
             receive_buff_cnt = 0;
             label1.Text = "" + trackBar1.Value;
+            int clt_clear = 0;
+            for (; clt_clear < 9600; clt_clear++)
+            {
+                receive_buff[clt_clear++] = 0;
+            }
         }
 
         private void numericUpDown2_ValueChanged(object sender, EventArgs e)

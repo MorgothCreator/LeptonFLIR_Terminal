@@ -10,7 +10,6 @@ C:\GitHub\LeptonFLIR_Terminal\PC_Terminal\PC_Terminal\obj\Debug\LeptonFLIRTerm.e
 C:\GitHub\LeptonFLIR_Terminal\PC_Terminal\PC_Terminal\obj\Debug\LeptonFLIRTerm.pdb
 C:\GitHub\LeptonFLIR_Terminal\PC_Terminal\PC_Terminal\bin\Debug\LeptonFLIRTerm.exe
 C:\GitHub\LeptonFLIR_Terminal\PC_Terminal\PC_Terminal\bin\Debug\LeptonFLIRTerm.pdb
-C:\GitHub\LeptonFLIR_Terminal\PC_Terminal\PC_Terminal\obj\Debug\ResolveAssemblyReference.cache
 C:\GitHub\LeptonFLIR_Terminal\PC_Terminal\PC_Terminal\obj\Debug\PC_Terminal.Form1.resources
 C:\GitHub\LeptonFLIR_Terminal\PC_Terminal\PC_Terminal\obj\Debug\LeptonFLIRTerm.Properties.Resources.resources
 C:\GitHub\LeptonFLIR_Terminal\PC_Terminal\PC_Terminal\obj\Debug\PC_Terminal.csproj.GenerateResource.Cache
